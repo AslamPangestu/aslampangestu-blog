@@ -1,0 +1,16 @@
+:root {
+    --primary-color: var(--brand-light);
+    --background-color: var(--brand-light);
+    --text-color: var(--brand-light);
+
+    --font-family-default: var(--brand-light);
+    --font-family-title: var(--brand-light);
+    --font-family-subtitle: var(--brand-light);
+}
+
+/* html{
+} */
+
+body{
+    font-family: var(--font-family-default);
+}
